@@ -1,4 +1,4 @@
-## Hey, there. I’m Larissa and
+## Hey, there. I’m Larissa
 
 - 🔭 I’m studying computer engineering
 - 🌱 I’m currently learning C, C++ and Python
