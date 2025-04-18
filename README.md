@@ -34,14 +34,14 @@
   <img 
     align="center" 
     alt="GitHub Stats" 
-    height="190" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LarissaFDS&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 <img 
       align="center" 
       alt="GitHub Stats" 
-      height="190" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaFDS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
