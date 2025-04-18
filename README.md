@@ -47,7 +47,12 @@
 
 </p>
 
-<div align ="center">
+<div align="center">
+
+## 🌐 Connect with Me 🍬
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belcands)
+</div>
+
     
 ![snake gif](https://github.com/LarissaFDS/LarissaFDS/blob/output/github-snake-dark.svg)
 </div>
