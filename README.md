@@ -5,7 +5,7 @@
 - 😄 Pronouns: she/her and he/him
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Technologies and Languagens 
 
 <img 
     align="left" 
@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
