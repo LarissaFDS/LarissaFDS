@@ -1,7 +1,7 @@
 ## Hey, there!!
 
 - 🔭 I’m studying computer engineering
-- 🌱 I’m currently learning C, C++ and Python
+- 🌱 I’m currently learning C++ and Python
 - 😄 Pronouns: she/her and he/him
 
 
